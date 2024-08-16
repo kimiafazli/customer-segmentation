@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer Segmentation
 Investigating customer segmentation using RFM analysis and K-Means clustering
 * Overview
   
