@@ -59,5 +59,18 @@ K-Means clustering is an unsupervised machine learning algorithm that groups unl
 ![image](https://github.com/user-attachments/assets/5fc6e965-9b95-4264-8abe-d7e7a44d6976)
 ![image](https://github.com/user-attachments/assets/a7251a30-7c9a-4bf4-a1fd-9202c8d47815)
 
+Cluster 0: Comprising 29% of customers, this segment is identified as "Loyal Customers." These customers used to purchase frequently and spend a lot, but they haven’t made a purchase in some time. Their scores are Recency = 3, Frequency = 2, and Monetary = 2.
+
+Cluster 1: Representing 20% of customers, this cluster can be categorized as "Almost Lost." These customers made a recent purchase (Recency = 2) but do not buy frequently and tend to spend less. Their scores are Recency = 2, Frequency = 3, and Monetary = 3.
+
+Cluster 2: With 30% of customers, this segment is labeled as "Lost Cheap Customers." These customers made their last purchase a long time ago, bought very infrequently, and spent very little. Their scores are Recency = 4, Frequency = 4, and Monetary = 4.
+
+Cluster 3: Accounting for 21% of customers, this segment is known as "Best Customers." These are the top-performing customers who purchase frequently, spend the most, and have made recent purchases. Their scores are Recency = 1, Frequency = 1, and Monetary = 1.
+
+
+
+
+
+
 
 
